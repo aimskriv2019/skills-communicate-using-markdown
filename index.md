@@ -1,4 +1,5 @@
-# Step 1 Learning to Edit Files using Markdown
+# Learning to Edit Files using Markdown
+## Step 1 Create a Pull Request
 ## Step 2 Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
